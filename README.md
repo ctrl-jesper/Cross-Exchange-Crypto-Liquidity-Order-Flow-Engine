@@ -23,7 +23,7 @@ Interactive market microstructure analysis platform for cryptocurrency order boo
 ## Installation
 
 ```bash
-git clone https://github.com/jespermathiasnielsen/Cross-Exchange-Crypto-Liquidity-Order-Flow-Engine.git
+git clone https://github.com/ctrl-jesper/Cross-Exchange-Crypto-Liquidity-Order-Flow-Engine.git
 cd Cross-Exchange-Crypto-Liquidity-Order-Flow-Engine
 pip install -r requirements.txt
 ```
